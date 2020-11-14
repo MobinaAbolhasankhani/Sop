@@ -1,2 +1,2 @@
 # Sop 
-- [Sop](https://MobinaAbolhasankhani.github.io/Sop/)
+- [Sop](https://mobinaAbolhasankhani.github.io/Sop/)
